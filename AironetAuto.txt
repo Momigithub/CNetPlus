@@ -8,5 +8,6 @@ Conf t
 		no shut
 		encryption mode ciphers tkip
 		ssid NET+WIFIrommel
-        bridge-group1
+        bridge-group 1
 end
+
